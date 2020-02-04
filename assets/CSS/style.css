@@ -1,6 +1,5 @@
 body{
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiSJMlLeFzZoSeQGOi5JVneNXy2QJM-c1V_InojHJYWF9TDZ9y');
-    padding:0;
+background-image: url("../Images/background.png");
     margin:0;
     display: flex;
     flex-direction:column;
